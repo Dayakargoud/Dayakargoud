@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Dayakargoud
-- 👀 I’m interested in Android app development.
-- 🌱 I’m currently learning jetpack compose.
-- 💞️ Kotlin 
+- Android Developer.
 - 📫 reach me on LinkedIn @dayakargoudbandari
 
-https://github-readme-stats.vercel.app/api?username=Dayakargoud
 
 <!---
 Dayakargoud/Dayakargoud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

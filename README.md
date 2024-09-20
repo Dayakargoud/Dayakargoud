@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dayakargoud
-- Android Developer.
+- 👨🏻‍💻 Android Developer.
 - 📫 reach me on LinkedIn @dayakargoudbandari
 
 
